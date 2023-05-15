@@ -16,8 +16,8 @@
 
 # Contents
 
-| Date       | Title                                                        | Paper       | Presenter       |
-| ---------- | ------------------------------------------------------------ | --------------- |
+| Date       | Title                                                        | Paper   | Presenter       |
+| ---------- | ------------------------------------------------------------ | ------- | --------------- |
 | 2023.01.18 | [High-Resolution Image Synthesis with Latent Diffusion Models](https://github.com/babbu3682/Multi-Modal-Study/blob/master/pdf/Stable%20Diffusion.pdf) | [Link](https://arxiv.org/abs/2112.10752) | 경성구 |
 
 | 2023.02.01 | [Multi-modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training](https://github.com/babbu3682/Multi-Modal-Study/blob/master/pdf/Medvill.pdf) | [Link](https://arxiv.org/abs/2105.11333) | 임지섭 |
