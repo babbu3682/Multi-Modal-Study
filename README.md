@@ -11,7 +11,7 @@
   * [경성구](https://github.com/babbu3682)
 
 * **Members**
-  * [임지섭], [김지영], [최창용], 정지훈, 김지환, 박현정.
+  * [임지섭], [최창용], 정지훈, 김지환, 박현정.
 
 
 # Contents
@@ -25,3 +25,4 @@
 | 2023.03.15 | [MedCLIP: Contrastive Learning from Unpaired Medical Images and Text](https://github.com/babbu3682/Multi-Modal-Study/blob/master/pdf/MedCLIP.pdf) | 정지훈 |
 | 2023.03.29 | [mPLUG: Effective and Efficient Vision-Language Learning by Cross-modal Skip-connections](https://github.com/babbu3682/Multi-Modal-Study/blob/master/pdf/mPLUG.pdf) | 김지환 |
 | 2023.04.12 | [Multi-Concept Customization of Text-to-Image Diffusion](https://github.com/babbu3682/Multi-Modal-Study/blob/master/pdf/Multi-Concept%20Customization%20of%20Text-to-Image%20Diffusion.pdf) | 경성구 |
+| 2023.05.10 | [Adding Conditional Control to Text-to-Image Diffusion Models](https://github.com/babbu3682/Multi-Modal-Study/blob/master/pdf/ContolNet.pdf) | 임지섭 |
